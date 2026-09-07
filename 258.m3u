@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-url="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeBanglaHD.png" group-title="General",Zee Bangla HD
+https://go.skym3u.dev/live/38ea6/3b1f0d3d404f706d2c3a2a400d1d1b342f044212060c15705e5944537d1b113d0c1c3b7f7566645a.m3u8?t=2296&s=862&id=edm3.m3u
+#EXTINF:-1 tvg-url="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeBangla.png" group-title="General",Zee Bangla
+https://go.skym3u.dev/live/38ea6/3b1f0d3d404f706d2c3a2a400d1d1b342f044212060c15705e5944537d1b113d0c1c3b7f726d66.m3u8?t=2296&s=862&id=edm3.m3u
+#EXTINF:-1 tvg-url="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Jalsha_HD.png" group-title="General",Star Jalsha HD
+https://go.skym3u.dev/live/38ea6/3b1f0d3d404f706d2c3a2a400d1d1b342f044212060c15705e5944537d1b113d0c1c3b7f776e64.m3u8?t=2296&s=862&id=edm3.m3u
+#EXTINF:-1 tvg-url="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png" group-title="General",Jalsha Movies HD
+https://go.skym3u.dev/live/38ea6/3b1f0d3d404f706d2c3a2a400d1d1b342f044212060c15705e5944537d1b113d0c1c3b7f706a64.m3u8?t=2296&s=862&id=edm3.m3u
