@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1 tvg-url="https://i.ibb.co/p4knk5y/images-4.png" group-title="General",BD: ZEE BANGLA (4K).
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/98881.ts
+#EXTINF:-1 tvg-url="https://i.ibb.co/p4knk5y/images-4.png" group-title="General",BD: COLORS BANGLA (4K).
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/98882.ts
+#EXTINF:-1 tvg-url="https://i.ibb.co/p4knk5y/images-4.png" group-title="General",BD: STAR JALSHA (4K).
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/98883.ts
+#EXTINF:-1 tvg-url="https://lh3.googleusercontent.com/YQP7FBUcon-G5tN4gern0sAs9cxredbeDG7UTnSHgau39W6v9v7MToQiRE4mVM9JYzg" group-title="General",BD_Jamuna TV
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/421.ts
+#EXTINF:-1 tvg-url="" group-title="General",BD_Somoy TV
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/422.ts
+#EXTINF:-1 tvg-url="" group-title="General",BD_Independent TV
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/423.ts
+#EXTINF:-1 tvg-url="https://i.pinimg.com/originals/84/9f/59/849f59af67ee6f8f136c4190af9c3e51.png" group-title="General",BD:Ekattor tv
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/428.ts
+#EXTINF:-1 tvg-url="" group-title="General",BD : BTV NEWS
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/998.ts
+#EXTINF:-1 tvg-url="" group-title="General",BD: ATN Bangla uk
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/3800.ts
+#EXTINF:-1 tvg-url="" group-title="General",BD : BTvChattogram
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/3818.ts
+#EXTINF:-1 tvg-url="" group-title="General",IN: SONY Aath
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/4083.ts
+#EXTINF:-1 tvg-url="https://tinyurl.com/mr2dec8v" group-title="General",T Sports HD
+https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
+#EXTINF:-1 tvg-url="http://openboxv8s.com/india/star_jalsha_movies_in.png" group-title="General",IND-Bangla: Jalsa Movies HD
+http://mxonlive.xyz/live/xap/245900.m3u8?e=1789183694&token=055532867f8125dfa14d89a63bf3f02fb4bdd7eaf40e103b0a84ba62786280d4
+#EXTINF:-1 tvg-url="https://imgur.com/79g2kMA.png" group-title="General",Zee Bangla Cinema
+https://stream.ottplus.live/live/zee_bangla_cinema_abr/live/zee_bangla_cinema_720/chunks.m3u8
+#EXTINF:-1 tvg-url="https://imgur.com/79g2kMA.png" group-title="General",Zee Bangla Cinema
+http://103.159.180.34:5001/live/3476.m3u8
+#EXTINF:-1 tvg-url="https://imgur.com/79g2kMA.png" group-title="General",Zee Bangla Cinema
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/master2.m3u8
+#EXTINF:-1 tvg-url="https://imgur.com/79g2kMA.png" group-title="General",Zee Bangla Cinema
+https://stream.ottplus.live/live/zee_bangla_cinema_abr/live/zee_bangla_cinema_720/chunks.m3u8
+#EXTINF:-1 tvg-url="https://imgur.com/79g2kMA.png" group-title="General",Zee Bangla Cinema
+http://103.159.180.34:5001/live/3476.m3u8
+#EXTINF:-1 tvg-url="https://imgur.com/79g2kMA.png" group-title="General",Zee Bangla Cinema
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/master2.m3u8
+#EXTINF:-1 tvg-url="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_e6222cfb0e0f7e22736f3496cc98a897_playmist_discovery_hd_400x400.jpg" group-title="General",Discovery HD
+https://tvsen3.aynaott.com/Zht5VqBb/index.m3u8
